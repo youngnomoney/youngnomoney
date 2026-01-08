@@ -1,5 +1,8 @@
+## 👋 Hi there, I'm 60fps
 
-# 👋 Hi there, I'm 60fps
+🎓 Student | 🌐 Networking | ⚡ Electronic Enthusiast
+
+
 
 <!--
 **youngnomoney/youngnomoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
