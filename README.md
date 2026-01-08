@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>🪐 About me</h1>
+
 ## 👋 Hi there, I'm 60fps
 
 🎓 Student | 🌐 Networking | ⚡ Electronic Enthusiast
@@ -10,7 +13,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42"/>
-  <img src="https://cdn.simpleicons.org/espressif/white" width="42" style="filter: invert(1);"/>
+  <img src="https://cdn.simpleicons.org/espressif/white" width="42"/>
 </p>
 
 #### ⚙️ Programming & Networking
