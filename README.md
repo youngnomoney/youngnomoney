@@ -2,7 +2,14 @@
 
 🎓 Student | 🌐 Networking | ⚡ Electronic Enthusiast
 
+## Skill & Technologies
 
+### Microcontrollers & Boards
+
+<p align="left">
+  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/esp32.svg" width="42" />
+</p>
 
 <!--
 **youngnomoney/youngnomoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
