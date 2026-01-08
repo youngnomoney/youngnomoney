@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+	<h1>About me</h1>
+</div>
+## 👋 Hi there, I'm 60fps
 
 <!--
 **youngnomoney/youngnomoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
