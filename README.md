@@ -1,12 +1,13 @@
 <div align="center">
   <h1>🪐 About me</h1>
+</div>
 
 ## 👋 Hi there, I'm 60fps
-
+<div align="center">
 🎓 Student | 🌐 Networking | ⚡ Electronic Enthusiast
+</div>
 
 ## 🛠️ Skill & Technologies
-
 
 #### 📟 Microcontrollers & Boards 
 
@@ -29,7 +30,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" style="filter: invert(1);"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="42"/>
 </p>
 <!--
 **youngnomoney/youngnomoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
