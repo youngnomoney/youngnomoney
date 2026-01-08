@@ -16,7 +16,7 @@
 ### ⚙️ Programming & Networking
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
 " width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
@@ -27,7 +27,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" style="filter: invert(1);"/>
 </p>
 <!--
 **youngnomoney/youngnomoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
