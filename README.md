@@ -2,13 +2,12 @@
 
 🎓 Student | 🌐 Networking | ⚡ Electronic Enthusiast
 
-## Skill & Technologies
+## 🛠️ Skill & Technologies
 
-### Microcontrollers & Boards
+### 📟 Microcontrollers & Boards 
 
 <p align="left">
-  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/esp32.svg" width="42" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" width="42"/>
 </p>
 
 <!--
