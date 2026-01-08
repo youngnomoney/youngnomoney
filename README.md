@@ -10,7 +10,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="42" style="filter: invert(1);"/>
+  <img src="https://cdn.simpleicons.org/espressif/white" width="42" style="filter: invert(1);"/>
 </p>
 
 #### ⚙️ Programming & Networking
