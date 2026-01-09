@@ -2,12 +2,12 @@
   <h1>🪐 About me</h1>
 </div>
 
-## 👋 Hi there, I'm 60fps
+### 👋 Hi there, I'm 60fps
 <div align="center">
 🎓 Student | 🌐 Networking | ⚡ Electronic Enthusiast
 </div>
 
-## 🛠️ Skill & Technologies
+### 🛠️ Skill & Technologies
 
 #### 📟 Microcontrollers & Boards 
 
