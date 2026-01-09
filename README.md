@@ -17,7 +17,7 @@
   <img src="https://cdn.simpleicons.org/espressif/white" width="42"/>
 </p>
 
-#### ⚙️ Programming & Networking
+#### 🌐 Programming & Networking
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="42">
 </p>
 
-#### Tool & Platforms
+#### 🚀 Tool & Platforms
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42"/>
