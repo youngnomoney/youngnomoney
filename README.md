@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🪐 About me</h1>
+  <h1>Who im i</h1>
 </div>
 
 ### 👋 Hi there, I'm 60fps
